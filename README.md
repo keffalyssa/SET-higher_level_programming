@@ -1,1 +1,1 @@
-# JavaScript Web Scraping - 0-readme
+# 0x14. JavaScript - Web scraping
